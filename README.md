@@ -2,7 +2,7 @@
 
 ## Description
 
-This Prework Study Guide was created for bootcamp students as a ripping off of the bandaid before the certain wounds of bootcamp even began. I built this project to completely immerse myself in the language, terms, and processes of basic coding at an overwhelming rate in hopes that some of the information might stick. The problem this solved was I am now more prepared to survive bootcamp, though it will feel as though I am being annhilated at times, I'll just keep coding. I have learned that coding may be to learn hard at first but I can definitely do it.
+This Prework Study Guide was created for bootcamp students as a ripping off of the bandaid before the certain wounds of bootcamp even began. I built this project to completely immerse myself in the language, terms, and processes of basic coding at an overwhelming rate in hopes that some of the information might stick. The problem this solved was I am now more prepared to survive bootcamp, though it will feel as though I am being annhilated at times, I'll just keep coding. I have learned that coding may be difficult to learn at first but I can definitely do it.
 
 
 
